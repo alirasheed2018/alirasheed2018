@@ -11,10 +11,41 @@
 ---
 
 ## 🛠️ **Technologies I Use**
-- **AI Frameworks**: TensorFlow, PyTorch
-- **Programming**: Python, Flask
-- **Web Development**: React.js, WordPress
-- **Other Tools**: OpenCV, NLTK, Hugging Face
+
+### **AI & Machine Learning**
+- **Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras
+- **NLP Tools**: Hugging Face, NLTK, SpaCy, Transformers
+- **Computer Vision**: OpenCV, YOLO, Mediapipe
+- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn
+
+### **Backend Development**
+- **Languages**: Python, Node.js
+- **Frameworks**: Flask, Django, Express.js
+- **Databases**: MySQL, PostgreSQL, MongoDB, SQLite
+- **APIs**: RESTful APIs, GraphQL
+
+### **Frontend Development**
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries**: React.js, Next.js, Angular, jQuery
+- **Styling**: Tailwind CSS, Bootstrap, Material-UI, Sass
+
+### **Full-Stack Development**
+- **Stacks**: MERN (MongoDB, Express.js, React.js, Node.js), JAMstack
+- **Deployment**: Docker, Kubernetes, Nginx
+- **Cloud Platforms**: AWS, Google Cloud, Azure, Heroku, Vercel
+
+### **DevOps & Tools**
+- **Version Control**: Git, GitHub, GitLab
+- **CI/CD**: Jenkins, GitHub Actions
+- **Containerization**: Docker, Kubernetes
+- **Monitoring**: Prometheus, Grafana
+
+### **Other Tools & Technologies**
+- **AI Platforms**: Google AI, AWS SageMaker, IBM Watson
+- **Data Engineering**: Apache Spark, Hadoop, Airflow
+- **Visualization**: Tableau, Power BI
+- **Testing**: Selenium, Jest, Mocha
+
 
 ---
 
