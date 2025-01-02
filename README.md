@@ -72,6 +72,10 @@ With a robust background in **AI, Machine Learning, and Web Development**, I del
 
 ### 📈 **GitHub Stats**
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true)
+[![Ali's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
