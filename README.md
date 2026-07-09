@@ -63,10 +63,7 @@ With a robust background in **AI, Machine Learning, and Web Development**, I del
 ---
 
 ## 📫 **Let’s Connect**
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [Your Portfolio Website](https://yourwebsite.com)
-- **Upwork**: [My Upwork Profile](https://upwork.com/freelancers/yourprofile)
+- **Upwork**: [My Upwork Profile](https://www.upwork.com/freelancers/~01769217cdcf806ddf)
 
 ---
 <!-- This is a comment
@@ -76,9 +73,5 @@ With a robust background in **AI, Machine Learning, and Web Development**, I del
 [![Ali's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
-### 📈 **GitHub Stats**
-
-
----
 
 Feel free to reach out for collaborations or inquiries. Let’s build something amazing together! 🚀
